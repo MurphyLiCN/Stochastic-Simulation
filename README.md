@@ -1,2 +1,2 @@
 # Stochastic-Simulation
- 智能仿真课程作业
+ 复旦大学智能仿真课程作业代码
